@@ -19,8 +19,8 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/anacurteanu/">
     <img src="https://img.shields.io/badge/Behance-informational?style=for-the-badge&logo=behance&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://anacurteanu.myportfolio.com/">
+    <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
