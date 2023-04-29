@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Behance-informational?style=for-the-badge&logo=behance&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://anacurteanu.myportfolio.com/">
-    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=anacurteanu&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=adobe&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
