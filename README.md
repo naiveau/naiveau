@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/anacurteanu/">
-    <img src="https://img.shields.io/badge/Behance-informational?style=for-the-badge&logo=behance&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.behance.net/anacurteanu">
+    <img src="https://img.shields.io/badge/Behance-informational?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
   <a href="https://anacurteanu.myportfolio.com/">
-    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=adobe&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Website-ff69b4?style=for-the-badge&logo=adobe&logoColor=white" alt="Website Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anacurteanu/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
