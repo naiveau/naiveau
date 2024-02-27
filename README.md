@@ -2,9 +2,12 @@
 
 My name is Ana, I am a Graphic Designer who is interested in programming. 
 
-- :telescope: I’m currently taking CS50
+I'm currently:
+- :baby_chick: Taking *CS50*
+- :telescope: Creating Adobe Scripts to automate tasks using *JavaScript*
+- :sparkles: Experimenting with *ThreeJS*, *TailwindCSS*, *React Three Fiber*, and *Framer Motion* to create my website portfolio 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Tools and Languages:
 <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="aftereffects" alt="aftereffects" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="premierepro" alt="premierepro" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
