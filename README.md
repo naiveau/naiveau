@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a Graphic Designer who is learning programing. Currently taking on CS50 :muscle: 
 <!--
 **naiveau/naiveau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
