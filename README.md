@@ -5,7 +5,7 @@ My name is Ana, I am a Graphic Designer who is interested in programming.
 - :telescope: I’m currently taking CS50
 
 ### :hammer_and_wrench: Languages and Tools :
-<img src="[https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg)" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
 <!--
 **naiveau/naiveau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
