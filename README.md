@@ -24,7 +24,9 @@ I'm currently:
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>&nbsp;
 
+---
 
+Feel free to contact me: 
 
 <!--
 **naiveau/naiveau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
