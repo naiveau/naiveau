@@ -26,7 +26,7 @@ I'm currently:
 
 ---
 
-Feel free to contact me: 
+Let's connect?
 
 <!--
 **naiveau/naiveau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
